@@ -9,7 +9,7 @@ Este repositório contém uma coleção de exercícios práticos relacionados à
 
 Aqui está uma lista dos conjuntos de exercícios disponíveis neste repositório:
 
-- [Conjunto 1: Revisão](exercicios/exercicio1)
+- [Conjunto 1: Revisão](exercicios-aula-01-revisao)
 
 
 ## Contribuição
