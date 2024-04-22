@@ -9,7 +9,8 @@ Este repositório contém uma coleção de exercícios práticos relacionados à
 
 Aqui está uma lista dos conjuntos de exercícios disponíveis neste repositório:
 
-- [Conjunto 1: Revisão](exercicios/exercicio1)
+<<<<<<< HEAD
+- [Conjunto 1: Revisão](exercicios-aula-01-revisao)
 **Os exercícios propostos nesse conjunto ajudaram a revisar conceitos importantes em Python como:**
 Funções, Entrada de dados do usuário, Operações matemáticas, Estruturas de controle, Laços de repetição, Strings e formatação.
 
