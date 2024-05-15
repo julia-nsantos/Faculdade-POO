@@ -12,6 +12,9 @@ Aqui está uma lista dos conjuntos de exercícios disponíveis neste repositóri
 - [Conjunto 1: Revisão](exercicios-aula-01-revisao)
 **Os exercícios propostos nesse conjunto ajudaram a revisar conceitos importantes em Python como:**
 Funções, Entrada de dados do usuário, Operações matemáticas, Estruturas de controle, Laços de repetição, Strings e formatação.
+- [Conjunto 2: Listas e Tuplas](exercicios-aula-02-listas-e-tuplas)
+**Os exercícios propostos nesse conjunto ajudaram a revisar conceitos importantes em Python como:**
+Manipulação de Listas e Cálculos Estáticos, Identificação de Números Pares e Ímpares, Separação de Números Pares e Ímpares em Listas diferentes, Armazenamento de Números em Tupla.
 
 ## Contribuição
 
